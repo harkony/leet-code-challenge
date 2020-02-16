@@ -8,4 +8,4 @@
   
 - Week 1 (~2020.02.16)
   - [Two Sum](https://leetcode.com/problems/two-sum/)
-  - [Add Two Number](https://lettcod.com/problems/add-two-number)
+  - [Add Two Number](https://leetcode.com/problems/add-two-numbers/)
