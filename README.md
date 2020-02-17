@@ -2,6 +2,7 @@
 - Rule : At least two problem solving per week
 
 - Participants
+  - quodvide
   - harkony
   
   
