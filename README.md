@@ -15,3 +15,7 @@
   - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
   - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
  
+- Week 3 (~2020.02.30)
+  - [Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+  - [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+ 
