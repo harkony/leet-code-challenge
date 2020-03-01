@@ -2,10 +2,8 @@
 - Rule : At least two(or one of hard) problem solving per week
 
 - Participants
-  - quodvide
-  - harkony
-  
-  
+  - quodvide (From Week 1)
+  - harkony (From Week 1)   
   
 - Week 1 (~2020.02.16)
   - [Two Sum](https://leetcode.com/problems/two-sum/)
