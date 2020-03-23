@@ -23,3 +23,7 @@
  
 - Week 5 (~2020.03.15)
   - 이번주는 코로나로 쉽니다.
+  
+- Week 6 (~2020.03.22)
+  - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+  - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
