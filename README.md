@@ -27,3 +27,9 @@
 - Week 6 (~2020.03.22)
   - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
   - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+ 
+======== 그냥 Problem > All 순서대로 풀기였으나 [Problem > All > 좋아요 순서](https://leetcode.com/problemset/all/?listId=79h8rn6)로 푸는걸로 변경 
+  
+- Week 7 (~2020.03.29)
+  - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+  - [3Sum](https://leetcode.com/problems/3sum/)
