@@ -33,3 +33,8 @@
 - Week 7 (~2020.03.29)
   - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
   - [3Sum](https://leetcode.com/problems/3sum/)
+  
+- Week 8 (~2020.04.05)
+  - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+  - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
