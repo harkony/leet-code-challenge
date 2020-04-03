@@ -1,4 +1,4 @@
-package harkony;
+package harkony.weekly.week2;
 
 import java.util.HashMap;
 import java.util.Map;

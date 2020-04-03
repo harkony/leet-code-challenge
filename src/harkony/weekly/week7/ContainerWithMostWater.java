@@ -1,4 +1,4 @@
-package harkony;
+package harkony.weekly.week7;
 
 public class ContainerWithMostWater {
     public static int maxArea(int[] height) {

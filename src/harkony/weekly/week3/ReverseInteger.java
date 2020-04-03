@@ -1,4 +1,4 @@
-package harkony;
+package harkony.weekly.week3;
 
 public class ReverseInteger {
 

@@ -1,4 +1,4 @@
-package harkony;
+package harkony.weekly.week6;
 
 public class PalindromeNumber {
     public static boolean isPalindrome(int x) {
