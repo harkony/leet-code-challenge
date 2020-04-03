@@ -1,4 +1,4 @@
-package harkony.weekly.week8.week7;
+package harkony.weekly.week8;
 
 import java.util.ArrayList;
 import java.util.Collections;
