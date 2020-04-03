@@ -1,4 +1,4 @@
-package harkony;
+package harkony.weekly.week1;
 
 public class AddTwoNumber {
     public static class ListNode {

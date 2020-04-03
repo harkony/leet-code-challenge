@@ -1,4 +1,4 @@
-package harkony;
+package harkony.weekly.week1;
 
 public class TwoSum {
     public static int[] twoSum(int[] nums, int target) {

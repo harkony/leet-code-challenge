@@ -1,4 +1,4 @@
-package harkony;
+package harkony.weekly.week4;
 
 public class ZigZagConversion {
     public static void main(String[] args) {
