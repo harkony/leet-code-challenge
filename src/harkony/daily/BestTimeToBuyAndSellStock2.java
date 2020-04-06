@@ -8,16 +8,14 @@ public class BestTimeToBuyAndSellStock2 {
             return 0;
 
         for (int i = 0; i < prices.length-1; i++) {
-            int current=prices[i];
-            int future=prices[i+1];
-            if(future>current){
-                if(buy==-1 || current<=buy) {
-                    buy = current;
+            if(prices[i+1]>prices[i]){
+                if(buy==-1 || prices[i]<=buy) {
+                    buy = prices[i];
                 }
             }
-            if(current>future){
+            if(prices[i]>prices[i+1]){
                 if(buy!=-1) {
-                    sum += (current - buy);
+                    sum += (prices[i] - buy);
                     buy=-1;
                 }
             }
