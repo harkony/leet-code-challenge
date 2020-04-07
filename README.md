@@ -36,5 +36,5 @@
   
 - Week 8 (~2020.04.05)
   - [Problem 17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/){:target="_blank"}
-  - [Problem 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/:target="_blank")
+  - [Problem 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
