@@ -35,7 +35,6 @@
   - [Problem 15. 3Sum](https://leetcode.com/problems/3sum/)
   
 - Week 8 (~2020.04.05)
-  - [Problem 17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/){:target="_blank"}
-  
+  - [Problem 17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
   - [Problem 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
