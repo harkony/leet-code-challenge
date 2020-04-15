@@ -38,3 +38,7 @@
   - [Problem 17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
   - [Problem 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
+- Week 9 (~2020.04.12)
+  - [Problem 22. Generate Parentheses ](https://leetcode.com/problems/generate-parentheses/)
+  - [Problem 23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
